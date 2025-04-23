@@ -1,40 +1,25 @@
 
 
 <!--
-  <<< Author notes: Step 3 >>>
+  <<< Author notes: Step 4 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
 
-<!--
-  <<< Author notes: Step 3 >>>
-  This step teaches learners how to mark a helpful reply as the answer in a GitHub Discussion.
--->
+# Step 4: Unpin to Update Priorities 🔄
 
-## Step 3: Mark as Answer
+Time to reorganize your discussions!
 
-✅ Let's help your community find clarity!
+## 🔄 Activity: Unpin a Discussion or Reply
 
-When you mark a reply as the answer to a discussion, it signals to everyone that the question has been resolved. This is particularly helpful in Q&A-style discussions where clarity and resolution are essential.
+1. Go to a pinned discussion or comment.
+2. Click the **...** menu and select **Unpin**.
 
 ---
 
-### 💡 Why this matters
+### 💡 Why This Matters
 
-Marking answers helps improve knowledge sharing. It makes it easier for other contributors to quickly identify which replies contain accurate or helpful solutions, reducing confusion and repeated questions.
-
----
-
-### 💬 Activity: Mark a Reply as the Answer
-
-1. Go to the discussion you created earlier.
-2. Reply to it using another account or use an alternate reply on your post.
-3. Hover over the reply that best answers your discussion.
-4. Click the **✔️ Mark as answer** button to highlight it.
-
-Once completed, GitHub Actions will detect this and move you to the next step!
-
----
+Unpinning content helps you adapt to changing priorities, making sure your most relevant conversations always stay visible.
 
 <footer>
 
