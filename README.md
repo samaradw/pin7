@@ -1,40 +1,35 @@
 
 
 <!--
-  <<< Author notes: Step 3 >>>
+  <<< Author notes: Step 4 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
 
-<!--
-  <<< Author notes: Step 3 >>>
-  This step teaches learners how to mark a helpful reply as the answer in a GitHub Discussion.
--->
+<!-- <<< Author notes: Step 4 >>> -->
+Start this step by acknowledging the previous step.  
+Explain when and why someone might unpin discussions.  
+Link to GitHub Docs for unpinning if relevant.
 
-## Step 3: Mark as Answer
+## Step 4: Unpin to Update Priorities
 
-✅ Let's help your community find clarity!
+Your project’s priorities can shift, and so can what’s most important for your team to see first.
 
-When you mark a reply as the answer to a discussion, it signals to everyone that the question has been resolved. This is particularly helpful in Q&A-style discussions where clarity and resolution are essential.
+Sometimes, a pinned discussion has served its purpose and should be unpinned to make space for more relevant or urgent content. This helps ensure your community or team always sees the most critical information at the top.
 
----
+### 🧭 Why this matters
 
-### 💡 Why this matters
-
-Marking answers helps improve knowledge sharing. It makes it easier for other contributors to quickly identify which replies contain accurate or helpful solutions, reducing confusion and repeated questions.
+Pinned discussions highlight key threads, but too many pinned discussions can cause clutter. Unpinning allows you to maintain a clean and relevant discussion board.
 
 ---
 
-### 💬 Activity: Mark a Reply as the Answer
+### 🔧 Activity: Unpin a Discussion
 
-1. Go to the discussion you created earlier.
-2. Reply to it using another account or use an alternate reply on your post.
-3. Hover over the reply that best answers your discussion.
-4. Click the **✔️ Mark as answer** button to highlight it.
+1. Go to a previously pinned discussion.
+2. Click the **three dots (`⋯`)** in the upper right of the discussion box.
+3. Click **"Unpin discussion"** or **"Unpin discussion from this category"**.
 
-Once completed, GitHub Actions will detect this and move you to the next step!
-
----
+Any unpin action will complete this step. Then refresh this page to load the final step!
 
 <footer>
 
