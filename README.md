@@ -1,26 +1,34 @@
 
 
 <!--
-  <<< Author notes: Step 3 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
+  <<< Author notes: Step 1 >>>
+  Choose 3-5 steps for your course.
+  The first step is always the hardest, so pick something easy!
+  Link to docs.github.com for further explanations.
+  Encourage users to open new tabs for steps!
 -->
 
-# Step 3: Pin a Reply 📍
+# Step 1: Create a Discussion 💬
 
-Now let’s highlight a specific comment.
+Let’s kick things off by starting a discussion!
 
-## 📍 Activity: Pin a Reply
+## 🧠 What is a GitHub Discussion?
 
-1. Go to your discussion.
-2. Find a meaningful reply.
-3. Click the **...** menu on the comment and select **Pin**.
+GitHub Discussions is a collaborative space within your repo where you can ask questions, propose ideas, or share announcements.
+
+## 💬 Activity: Create a New Discussion
+
+1. Navigate to your repository's **Discussions** tab.
+2. Click **New Discussion**.
+3. Choose a category like **Q&A** or **Ideas**.
+4. Add a title and meaningful message.
+5. Click **Start Discussion**.
 
 ---
 
 ### 💡 Why This Matters
 
-Pinning a reply keeps key information visible, like the best answer to a question or a project update, without scrolling through the full thread.
+Creating discussions helps build community and improve transparency. Starting with a question or idea encourages engagement and lays the foundation for collaborative problem-solving.
 
 <footer>
 
