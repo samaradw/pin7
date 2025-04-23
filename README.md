@@ -1,30 +1,40 @@
 
 
 <!--
-  <<< Author notes: Step 2 >>>
+  <<< Author notes: Step 3 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
 
-<!-- <<< Author notes: Step 2 >>> -->
-Start this step by pinning your discussion so your community can quickly see the most important threads.
+<!--
+  <<< Author notes: Step 3 >>>
+  This step teaches learners how to mark a helpful reply as the answer in a GitHub Discussion.
+-->
 
-## Step 2: Pin a Discussion 📌
+## Step 3: Mark as Answer
 
-Now that you've started a discussion, let’s make sure it gets the visibility it deserves.
+✅ Let's help your community find clarity!
 
-### 🤔 Why this matters
+When you mark a reply as the answer to a discussion, it signals to everyone that the question has been resolved. This is particularly helpful in Q&A-style discussions where clarity and resolution are essential.
 
-Pinned discussions stay at the top of your list and help everyone find key questions, announcements, or updates quickly. Use pinning to highlight critical info for your team or contributors.
+---
 
-### ⚙️ Activity: Pin Your Discussion
+### 💡 Why this matters
 
-1. Go to your [Discussions tab](../../discussions).
-2. Click into the discussion you just created.
-3. In the top right panel, look for the **“Pin discussion to…”** option.
-4. Click it. If successful, your discussion will now show a 📌 **Pinned** label.
+Marking answers helps improve knowledge sharing. It makes it easier for other contributors to quickly identify which replies contain accurate or helpful solutions, reducing confusion and repeated questions.
 
-Once pinned, wait about 20 seconds and refresh this page to unlock the next step!
+---
+
+### 💬 Activity: Mark a Reply as the Answer
+
+1. Go to the discussion you created earlier.
+2. Reply to it using another account or use an alternate reply on your post.
+3. Hover over the reply that best answers your discussion.
+4. Click the **✔️ Mark as answer** button to highlight it.
+
+Once completed, GitHub Actions will detect this and move you to the next step!
+
+---
 
 <footer>
 
