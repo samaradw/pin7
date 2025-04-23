@@ -1,35 +1,34 @@
 
 
 <!--
-  <<< Author notes: Step 4 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
+  <<< Author notes: Step 1 >>>
+  Choose 3-5 steps for your course.
+  The first step is always the hardest, so pick something easy!
+  Link to docs.github.com for further explanations.
+  Encourage users to open new tabs for steps!
 -->
 
-<!-- <<< Author notes: Step 4 >>> -->
-Start this step by acknowledging the previous step.  
-Explain when and why someone might unpin discussions.  
-Link to GitHub Docs for unpinning if relevant.
+# Step 1: Create a Discussion 💬
 
-## Step 4: Unpin to Update Priorities
+Let’s kick things off by starting a discussion!
 
-Your project’s priorities can shift, and so can what’s most important for your team to see first.
+## 🧠 What is a GitHub Discussion?
 
-Sometimes, a pinned discussion has served its purpose and should be unpinned to make space for more relevant or urgent content. This helps ensure your community or team always sees the most critical information at the top.
+GitHub Discussions is a collaborative space within your repo where you can ask questions, propose ideas, or share announcements.
 
-### 🧭 Why this matters
+## 💬 Activity: Create a New Discussion
 
-Pinned discussions highlight key threads, but too many pinned discussions can cause clutter. Unpinning allows you to maintain a clean and relevant discussion board.
+1. Navigate to your repository's **Discussions** tab.
+2. Click **New Discussion**.
+3. Choose a category like **Q&A** or **Ideas**.
+4. Add a title and meaningful message.
+5. Click **Start Discussion**.
 
 ---
 
-### 🔧 Activity: Unpin a Discussion
+### 💡 Why This Matters
 
-1. Go to a previously pinned discussion.
-2. Click the **three dots (`⋯`)** in the upper right of the discussion box.
-3. Click **"Unpin discussion"** or **"Unpin discussion from this category"**.
-
-Any unpin action will complete this step. Then refresh this page to load the final step!
+Creating discussions helps build community and improve transparency. Starting with a question or idea encourages engagement and lays the foundation for collaborative problem-solving.
 
 <footer>
 
