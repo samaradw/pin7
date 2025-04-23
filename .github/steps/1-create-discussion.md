@@ -6,15 +6,25 @@
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Create a pull request
+# Step 1: Create a Discussion 💬
 
-_Welcome to "Managing Merge Conflicts"! :wave:_
+Let’s kick things off by starting a discussion!
 
-**What is a _merge conflict_?**: A **merge conflict** occurs when changes are made to the same part of the same file on two different branches. You usually find out about conflicts in a pull request so let's start by creating one.
+## 🧠 What is a GitHub Discussion?
 
-### :keyboard: Activity: Create a pull request
+GitHub Discussions is a collaborative space within your repo where you can ask questions, propose ideas, or share announcements.
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. We made a small change to a file in the repository in the `my-resume` branch.
-1. [Create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) setting `my-resume` as the head branch and `main` as the base branch. You can enter `Resolving merge conflicts` for the pull request title and body.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+## 💬 Activity: Create a New Discussion
+
+1. Navigate to your repository's **Discussions** tab.
+2. Click **New Discussion**.
+3. Choose a category like **Q&A** or **Ideas**.
+4. Add a title and meaningful message.
+5. Click **Start Discussion**.
+
+---
+
+### 💡 Why This Matters
+
+Creating discussions helps build community and improve transparency. Starting with a question or idea encourages engagement and lays the foundation for collaborative problem-solving.
+
