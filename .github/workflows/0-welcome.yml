@@ -1,39 +1,34 @@
-name: Step 0, Welcome
+name: Step 0, Start the course
 
+# This runs when the learner pushes to `main`, typically right after they create the repo.
 on:
-  workflow_dispatch:
   push:
     branches:
       - main
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   get_current_step:
-    name: Check current step number
+    name: Check current step
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
       - id: get_step
-        run: echo "current_step=$(cat .github/steps/-step.txt)" >> $GITHUB_OUTPUT
+        run: echo "current_step=$(cat ./.github/steps/-step.txt)" >> $GITHUB_OUTPUT
     outputs:
       current_step: ${{ steps.get_step.outputs.current_step }}
 
-  on_start:
-    name: On start
+  on_repo_created:
+    name: Proceed to Step 1
     needs: get_current_step
-    if: >-
-      ${{ !github.event.repository.is_template
-          && needs.get_current_step.outputs.current_step == 0 }}
+    if: ${{ needs.get_current_step.outputs.current_step == 0 }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Update to step 1
         uses: skills/action-update-step@v2
@@ -41,4 +36,3 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           from_step: 0
           to_step: 1
-          branch_name: main
