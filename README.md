@@ -1,53 +1,34 @@
-# Pinning Important Discussions & Replies
 
-Learn how to highlight top conversations and answers in GitHub Discussions to keep your community organized and informed.
 
-## Welcome
+<!--
+  <<< Author notes: Step 1 >>>
+  Choose 3-5 steps for your course.
+  The first step is always the hardest, so pick something easy!
+  Link to docs.github.com for further explanations.
+  Encourage users to open new tabs for steps!
+-->
 
-GitHub Discussions can get busy—and that's a good thing! But when valuable answers or project updates get buried, it's time to pin them.
+# Step 1: Create a Discussion 💬
 
-This interactive skill will show you how to:
-- Pin important discussions
-- Pin individual replies
-- Unpin posts to keep your board current
+Let’s kick things off by starting a discussion!
 
----
+## 🧠 What is a GitHub Discussion?
 
-### Who this is for:
-- Repository maintainers  
-- Community managers  
-- Project leads  
-- Open source contributors
+GitHub Discussions is a collaborative space within your repo where you can ask questions, propose ideas, or share announcements.
 
-### What you'll learn:
-- Structuring a valuable discussion  
-- Pinning discussions for visibility  
-- Highlighting great replies  
-- Unpinning to keep things current
+## 💬 Activity: Create a New Discussion
 
-### What you'll build:
-An organized, community-first Discussions tab with highlighted responses and clear priorities.
-
-### Prerequisites:
-Basic familiarity with GitHub and a repository that has Discussions enabled.
-
-### How long:
-15–20 minutes
+1. Navigate to your repository's **Discussions** tab.
+2. Click **New Discussion**.
+3. Choose a category like **Q&A** or **Ideas**.
+4. Add a title and meaningful message.
+5. Click **Start Discussion**.
 
 ---
 
+### 💡 Why This Matters
 
-
-### 🚀 How to start this course
-
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=bryceshen1&template_name=base&owner=%40me&name=bryceshen1-base&description=My+clone+repository&visibility=public)
-
-1. Right-click **Start course** and open the link in a new tab.
-2. Fill out the form to create your own copy of the course repository.
-   - For owner, choose your personal account or organization.
-   - Public repositories are recommended, as private ones will [consume GitHub Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-3. Click **Create repository** and wait about 20 seconds.
-4. Refresh the page and follow the instructions in your new repository.
+Creating discussions helps build community and improve transparency. Starting with a question or idea encourages engagement and lays the foundation for collaborative problem-solving.
 
 <footer>
 
