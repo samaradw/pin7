@@ -1,34 +1,30 @@
 
 
 <!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
+  <<< Author notes: Step 2 >>>
+  Start this step by acknowledging the previous step.
+  Define terms and link to docs.github.com.
 -->
 
-# Step 1: Create a Discussion 💬
+<!-- <<< Author notes: Step 2 >>> -->
+Start this step by pinning your discussion so your community can quickly see the most important threads.
 
-Let’s kick things off by starting a discussion!
+## Step 2: Pin a Discussion 📌
 
-## 🧠 What is a GitHub Discussion?
+Now that you've started a discussion, let’s make sure it gets the visibility it deserves.
 
-GitHub Discussions is a collaborative space within your repo where you can ask questions, propose ideas, or share announcements.
+### 🤔 Why this matters
 
-## 💬 Activity: Create a New Discussion
+Pinned discussions stay at the top of your list and help everyone find key questions, announcements, or updates quickly. Use pinning to highlight critical info for your team or contributors.
 
-1. Navigate to your repository's **Discussions** tab.
-2. Click **New Discussion**.
-3. Choose a category like **Q&A** or **Ideas**.
-4. Add a title and meaningful message.
-5. Click **Start Discussion**.
+### ⚙️ Activity: Pin Your Discussion
 
----
+1. Go to your [Discussions tab](../../discussions).
+2. Click into the discussion you just created.
+3. In the top right panel, look for the **“Pin discussion to…”** option.
+4. Click it. If successful, your discussion will now show a 📌 **Pinned** label.
 
-### 💡 Why This Matters
-
-Creating discussions helps build community and improve transparency. Starting with a question or idea encourages engagement and lays the foundation for collaborative problem-solving.
+Once pinned, wait about 20 seconds and refresh this page to unlock the next step!
 
 <footer>
 
