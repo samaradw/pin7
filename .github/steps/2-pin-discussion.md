@@ -4,19 +4,23 @@
   Define terms and link to docs.github.com.
 -->
 
-# Step 2: Pin a Discussion 📌
+<!-- <<< Author notes: Step 2 >>> -->
+Start this step by pinning your discussion so your community can quickly see the most important threads.
 
-Let’s highlight your most important post.
+## Step 2: Pin a Discussion 📌
 
-## 📌 Activity: Pin a Discussion
+Now that you've started a discussion, let’s make sure it gets the visibility it deserves.
 
-1. Go to the Discussions tab.
-2. Hover over your newly created discussion.
-3. Click the **...** menu and select **Pin Discussion**.
+### 🤔 Why this matters
 
----
+Pinned discussions stay at the top of your list and help everyone find key questions, announcements, or updates quickly. Use pinning to highlight critical info for your team or contributors.
 
-### 💡 Why This Matters
+### ⚙️ Activity: Pin Your Discussion
 
-Pinned discussions appear at the top of your list and help your community easily find key conversations, updates, or resources.
+1. Go to your [Discussions tab](../../discussions).
+2. Click into the discussion you just created.
+3. In the top right panel, look for the **“Pin discussion to…”** option.
+4. Click it. If successful, your discussion will now show a 📌 **Pinned** label.
+
+Once pinned, wait about 20 seconds and refresh this page to unlock the next step!
 
