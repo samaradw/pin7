@@ -4,17 +4,27 @@
   Define terms and link to docs.github.com.
 -->
 
-# Step 4: Unpin to Update Priorities 🔄
+<!-- <<< Author notes: Step 4 >>> -->
+Start this step by acknowledging the previous step.  
+Explain when and why someone might unpin discussions.  
+Link to GitHub Docs for unpinning if relevant.
 
-Time to reorganize your discussions!
+## Step 4: Unpin to Update Priorities
 
-## 🔄 Activity: Unpin a Discussion or Reply
+Your project’s priorities can shift, and so can what’s most important for your team to see first.
 
-1. Go to a pinned discussion or comment.
-2. Click the **...** menu and select **Unpin**.
+Sometimes, a pinned discussion has served its purpose and should be unpinned to make space for more relevant or urgent content. This helps ensure your community or team always sees the most critical information at the top.
+
+### 🧭 Why this matters
+
+Pinned discussions highlight key threads, but too many pinned discussions can cause clutter. Unpinning allows you to maintain a clean and relevant discussion board.
 
 ---
 
-### 💡 Why This Matters
+### 🔧 Activity: Unpin a Discussion
 
-Unpinning content helps you adapt to changing priorities, making sure your most relevant conversations always stay visible.
+1. Go to a previously pinned discussion.
+2. Click the **three dots (`⋯`)** in the upper right of the discussion box.
+3. Click **"Unpin discussion"** or **"Unpin discussion from this category"**.
+
+Any unpin action will complete this step. Then refresh this page to load the final step!
