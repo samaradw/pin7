@@ -1,33 +1,16 @@
-name: Step 4, Unpin to Update Priorities
+name: Step 4 - Unpin a Discussion
 
-# Trigger when a discussion is unpinned from either the overall section or a category.
 on:
   discussion:
-    types: [unpinned]
-
-permissions:
-  contents: write
+    types:
+      - unpinned
 
 jobs:
-  get_current_step:
-    name: Check current step number
+  proceed-to-finish:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - id: get_step
-        run: echo "current_step=$(cat ./.github/steps/-step.txt)" >> $GITHUB_OUTPUT
-    outputs:
-      current_step: ${{ steps.get_step.outputs.current_step }}
-
-  on_discussion_unpinned:
-    name: Proceed to Finish
-    needs: get_current_step
-    if: ${{ needs.get_current_step.outputs.current_step == 4 }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - name: Advance to step 5
+        run: echo "Nice! You unpinned a discussion. Moving to the final step."
 
       - name: Update to finish
         uses: skills/action-update-step@v2
