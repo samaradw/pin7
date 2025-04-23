@@ -1,8 +1,9 @@
 name: Step 4, Unpin to Update Priorities
 
+# Trigger when a discussion is unpinned from either the overall section or a category.
 on:
   discussion:
-    types: [edited]
+    types: [unpinned]
 
 permissions:
   contents: write
@@ -15,11 +16,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - id: get_step
-        run: echo "current_step=$(cat .github/steps/-step.txt)" >> $GITHUB_OUTPUT
+        run: echo "current_step=$(cat ./.github/steps/-step.txt)" >> $GITHUB_OUTPUT
     outputs:
       current_step: ${{ steps.get_step.outputs.current_step }}
 
-  on_unpin:
+  on_discussion_unpinned:
     name: Proceed to Finish
     needs: get_current_step
     if: ${{ needs.get_current_step.outputs.current_step == 4 }}
@@ -35,4 +36,3 @@ jobs:
           from_step: 4
           to_step: 5
           branch_name: main
-
