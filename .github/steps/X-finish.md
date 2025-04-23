@@ -3,22 +3,25 @@
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Finish
+# 🎉 Congratulations!
 
-_Congratulations friend, you've completed this course!_
+You’ve completed the skill: **Pinning Important Discussions & Replies**!
 
-<img src=https://octodex.github.com/images/benevocats.jpg alt=celebrate width=300 align=right>
+## 🧠 What you learned:
 
-Here's a recap of all the tasks you've accomplished in your repository:
+- How to create and structure a GitHub Discussion  
+- How to pin a discussion to boost visibility  
+- How to highlight key replies with pinning  
+- How to unpin content to keep your board current
 
-- You learned why merge conflicts happen.
-- You resolved a simple merge conflict.
-- You created a merge conflict, and resolved it!
+---
 
-### What's next?
+### 💡 Real-World Tip
 
-- Make your own Markdown resume site with GitHub Pages! Learn how in our [GitHub Pages](https://github.com/skills/github-pages) course.
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/resolve-merge-conflicts).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+Open source maintainers regularly pin FAQs, bug workarounds, or roadmap updates in Discussions so contributors and users can find what matters most.
+
+Use pinning as a tool to **prioritize knowledge and build a transparent community**.
+
+---
+
+📣 [Let us know how it went in our discussion board!](https://github.com/orgs/skills/discussions)
