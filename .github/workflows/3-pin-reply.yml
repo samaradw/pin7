@@ -1,8 +1,12 @@
-name: Step 3, Pin a Reply
+name: Step 3, Mark as Answer
+
+# This workflow listens for a discussion marked as answered
+# and proceeds from step 3 to step 4.
 
 on:
-  discussion_comment:
-    types: [edited]
+  discussion:
+    types:
+      - answered
 
 permissions:
   contents: write
@@ -15,11 +19,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - id: get_step
-        run: echo "current_step=$(cat .github/steps/-step.txt)" >> $GITHUB_OUTPUT
+        run: echo "current_step=$(cat ./.github/steps/-step.txt)" >> $GITHUB_OUTPUT
     outputs:
       current_step: ${{ steps.get_step.outputs.current_step }}
 
-  on_pin_reply:
+  on_mark_as_answer:
     name: Proceed to Step 4
     needs: get_current_step
     if: ${{ needs.get_current_step.outputs.current_step == 3 }}
@@ -35,4 +39,3 @@ jobs:
           from_step: 3
           to_step: 4
           branch_name: main
-
