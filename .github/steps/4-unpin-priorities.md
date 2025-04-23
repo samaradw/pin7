@@ -4,16 +4,17 @@
   Define terms and link to docs.github.com.
 -->
 
-## Step 4: Merge your pull request
+# Step 4: Unpin to Update Priorities 🔄
 
-_Almost there! :heart:_
+Time to reorganize your discussions!
 
-You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your pull request!
+## 🔄 Activity: Unpin a Discussion or Reply
 
-### :keyboard: Activity: Merge your pull request
+1. Go to a pinned discussion or comment.
+2. Click the **...** menu and select **Unpin**.
 
-1. First, resolve any remaining conflicts in your pull request.
-   > Look back at step one if you need help.
-1. Click **Merge pull request**.
-1. Delete the branch `my-resume` (optional).
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+---
+
+### 💡 Why This Matters
+
+Unpinning content helps you adapt to changing priorities, making sure your most relevant conversations always stay visible.
