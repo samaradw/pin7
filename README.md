@@ -1,28 +1,34 @@
 
 
 <!--
-  <<< Author notes: Step 4 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
+  <<< Author notes: Step 1 >>>
+  Choose 3-5 steps for your course.
+  The first step is always the hardest, so pick something easy!
+  Link to docs.github.com for further explanations.
+  Encourage users to open new tabs for steps!
 -->
 
-<!-- <<< Author notes: Step 4 >>> -->
-## 🧹 Step 4: Unpin to Update Priorities
+# Step 1: Create a Discussion 💬
 
-Sometimes priorities change — that's where unpinning comes in.
+Let’s kick things off by starting a discussion!
 
-In this step, you'll **unpin a discussion** to reflect updated priorities or remove outdated announcements.
+## 🧠 What is a GitHub Discussion?
 
-### 📌 Why this matters
-Unpinning discussions helps keep your repository organized and focused. It ensures only the most relevant topics remain visible to your community.
+GitHub Discussions is a collaborative space within your repo where you can ask questions, propose ideas, or share announcements.
 
-### ✅ What to do
-1. Go to the **Discussions** tab.
-2. Look for a discussion that has already been pinned (you'll see a 📌 icon).
-3. Scroll to the **bottom of the pinned discussion**.
-4. Click **"Unpin this discussion"**.
+## 💬 Activity: Create a New Discussion
 
-Once unpinned, you’ll automatically move on to the final step.
+1. Navigate to your repository's **Discussions** tab.
+2. Click **New Discussion**.
+3. Choose a category like **Q&A** or **Ideas**.
+4. Add a title and meaningful message.
+5. Click **Start Discussion**.
+
+---
+
+### 💡 Why This Matters
+
+Creating discussions helps build community and improve transparency. Starting with a question or idea encourages engagement and lays the foundation for collaborative problem-solving.
 
 <footer>
 
