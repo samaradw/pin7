@@ -8,27 +8,47 @@
   Encourage users to open new tabs for steps!
 -->
 
-# Step 1: Create a Discussion 💬
+# 📌 Pinning Important Discussions & Replies
 
-Let’s kick things off by starting a discussion!
-
-## 🧠 What is a GitHub Discussion?
-
-GitHub Discussions is a collaborative space within your repo where you can ask questions, propose ideas, or share announcements.
-
-## 💬 Activity: Create a New Discussion
-
-1. Navigate to your repository's **Discussions** tab.
-2. Click **New Discussion**.
-3. Choose a category like **Q&A** or **Ideas**.
-4. Add a title and meaningful message.
-5. Click **Start Discussion**.
+_Learn how to organize and manage GitHub Discussions to highlight what's most valuable._
 
 ---
 
-### 💡 Why This Matters
+## 👥 Who is this for
+- Repository maintainers  
+- Community managers  
+- Open source contributors  
+- Team leads using Discussions  
 
-Creating discussions helps build community and improve transparency. Starting with a question or idea encourages engagement and lays the foundation for collaborative problem-solving.
+---
+
+## 📚 What you'll learn
+- How to create and pin discussions
+- How to mark helpful replies as answers
+- How to unpin threads to reprioritize
+
+---
+
+## 🛠️ What you'll build
+A well-organized discussion board with pinned threads, marked answers, and updated priorities.
+
+---
+
+## ⏱️ How long will this take?
+15–20 minutes
+
+---
+
+### 🚀 How to start this course
+
+[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=bryceshen1&template_name=base&owner=%40me&name=bryceshen1-base&description=My+clone+repository&visibility=public)
+
+1. Right-click **Start course** and open the link in a new tab.
+2. Fill out the form to create your own copy of the course repository.
+   - For owner, choose your personal account or organization.
+   - Public repositories are recommended, as private ones will [consume GitHub Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
+3. Click **Create repository** and wait about 20 seconds.
+4. Refresh the page and follow the instructions in your new repository.
 
 <footer>
 
@@ -38,9 +58,3 @@ Creating discussions helps build community and improve transparency. Starting wi
 -->
 
 ---
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/review-pull-requests) &bull; [GitHub status](https://www.githubstatus.com/)
-
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
