@@ -41,7 +41,7 @@ A well-organized discussion board with pinned threads, marked answers, and updat
 
 ### 🚀 How to start this course
 
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=bryceshen1&template_name=base&owner=%40me&name=bryceshen1-base&description=My+clone+repository&visibility=public)
+[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=samaradw&template_name=pin7&owner=%40me&name=samaradw-pin7&description=My+clone+repository&visibility=public)
 
 1. Right-click **Start course** and open the link in a new tab.
 2. Fill out the form to create your own copy of the course repository.
