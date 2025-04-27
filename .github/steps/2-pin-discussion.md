@@ -19,7 +19,7 @@ Pinned Discussions stay at the top of your list and help everyone find key quest
 
 1. Go to your [Discussions tab](../../discussions).
 2. Click into the Discussion you just created.
-3. In the top right panel, look for the **“Pin Discussion to…”** option.
+3. In the top right panel, look for the **Pin Discussion to…** option.
 4. Click it. If successful, your Discussion will now show a 📌 **Pinned** label.
 
 Once pinned, wait about 20 seconds and refresh this page to unlock the next step!
