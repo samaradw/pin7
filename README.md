@@ -10,7 +10,7 @@
 
 <header>
 
-# 📌 Pinning Important Discussions & Replies
+# 📌 Pinning threads & responses
 
 _Learn how to organize and highlight valuable conversations in GitHub Discussions._
 
