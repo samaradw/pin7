@@ -18,7 +18,7 @@ Unpinning Discussions helps keep your repository organized and focused. It ensur
 1. Go to the **Discussions** tab.
 2. Look for a Discussion that has already been pinned (you'll see a 📌 icon).
 3. Scroll to the **bottom of the pinned Discussion**.
-4. Click **"Unpin this Discussion"**.
+4. Click **Unpin this Discussion**.
 
 Once unpinned, you’ll automatically move on to the final step.
 
