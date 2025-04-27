@@ -8,7 +8,7 @@
 _Congratulations on completing this course on pinning threads and responses_
 
 
-<img src="https://octodex.github.com/securityknightocat/" alt="celebrate" width="300" align="right">
+<img src="https://octodex.github.com/images/securitocat.png" alt="celebrate" width="300" align="right">
 
 By mastering GitHub Discussions, you’ve learned how to:
 - Create and structure Discussions for collaboration
