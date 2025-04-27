@@ -12,7 +12,7 @@ Let’s kick things off by starting a Discussion!
 
 ## 🧠 What is a GitHub Discussion?
 
-GitHub Discussions is a collaborative space within your repo where you can ask questions, propose ideas, or share announcements.
+GitHub Discussions is a collaborative space within your repository where you can ask questions, propose ideas, or share announcements.
 
 ## 💬 Activity: Create a new Discussion
 
