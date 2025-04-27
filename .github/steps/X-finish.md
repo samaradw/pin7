@@ -5,12 +5,12 @@
 
 # 🎉 Congratulations!
 
-You’ve completed the skill: **Pinning discussions & replies**!
+You’ve completed the skill: **Pinning Discussions & Replies**!
 
 ## 🧠 What you learned:
 
 - How to create and structure a GitHub Discussion  
-- How to pin a discussion to boost visibility  
+- How to pin a Discussion to boost visibility  
 - How to highlight key replies with pinning  
 - How to unpin content to keep your board current
 
