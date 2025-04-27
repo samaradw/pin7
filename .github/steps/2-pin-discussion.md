@@ -7,7 +7,7 @@
 <!-- <<< Author notes: Step 2 >>> -->
 Start this step by pinning your discussion so your community can quickly see the most important threads.
 
-## Step 2: Pin a Discussion 📌
+## Step 2: Pin a discussion 📌
 
 Now that you've started a discussion, let’s make sure it gets the visibility it deserves.
 
