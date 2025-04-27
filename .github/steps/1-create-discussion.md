@@ -21,6 +21,7 @@ GitHub Discussions is a collaborative space within your repository where you can
 3. Choose a category like **Q&A** or **Ideas**.
 4. Add a title and meaningful message.
 5. Click **Start Discussion**.
+6. Wait about 20 seconds then refresh this page (the one you're following instructions from) to automatically update to the next step.
 
 ---
 
