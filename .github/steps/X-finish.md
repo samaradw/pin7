@@ -5,7 +5,7 @@
 
 # 🎉 Congratulations!
 
-You’ve completed the skill: **Pinning Important Discussions & Replies**!
+You’ve completed the skill: **Pinning discussions & replies**!
 
 ## 🧠 What you learned:
 
@@ -16,7 +16,7 @@ You’ve completed the skill: **Pinning Important Discussions & Replies**!
 
 ---
 
-### 💡 Real-World Tip
+### 💡 Real-world tip
 
 Open source maintainers regularly pin FAQs, bug workarounds, or roadmap updates in Discussions so contributors and users can find what matters most.
 
