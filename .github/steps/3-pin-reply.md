@@ -9,7 +9,7 @@
   This step teaches learners how to mark a helpful reply as the answer in a GitHub Discussion.
 -->
 
-## Step 3: Mark as Answer
+## Step 3: Mark as answer
 
 ✅ Let's help your community find clarity!
 
@@ -23,7 +23,7 @@ Marking answers helps improve knowledge sharing. It makes it easier for other co
 
 ---
 
-### 💬 Activity: Mark a Reply as the Answer
+### 💬 Activity: Mark a reply as the answer
 
 1. Go to the discussion you created earlier.
 2. Reply to it using another account or use an alternate reply on your post.
