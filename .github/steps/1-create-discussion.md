@@ -6,7 +6,7 @@
   Encourage users to open new tabs for steps!
 -->
 
-# Step 1: Create a Discussion 💬
+## Step 1: Create a Discussion 💬
 
 Let’s kick things off by starting a Discussion!
 
