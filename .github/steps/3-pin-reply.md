@@ -15,13 +15,9 @@
 
 When you mark a reply as the answer to a Discussion, it signals to everyone that the question has been resolved. This is particularly helpful in Q&A-style Discussions where clarity and resolution are essential.
 
----
-
 ### 💡 Why this matters
 
 Marking answers helps improve knowledge sharing. It makes it easier for other contributors to quickly identify which replies contain accurate or helpful solutions, reducing confusion and repeated questions.
-
----
 
 ### 💬 Activity: Mark a reply as the answer
 
@@ -30,5 +26,3 @@ Marking answers helps improve knowledge sharing. It makes it easier for other co
 3. Hover over the reply that best answers your Discussion.
 4. Click the **✔️ Mark as answer** button to highlight it.
 5. Wait about 20 seconds then refresh this page (the one you're following instructions from) to automatically update to the next step.
-
----
