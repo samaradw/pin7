@@ -5,21 +5,22 @@
 
 ## Finish
 
-_You’ve completed the skill: **Pinning threads & responses**!_
+_Congratulations on completing this course on pinning threads and responses_
 
-<img src=https://octodex.github.com/images/securityknightocat.jpg alt=celebrate width=300 align=right>
 
-### 🧠 What you learned:
+<img src="https://octodex.github.com/securityknightocat/" alt="celebrate" width="300" align="right">
 
-- How to create and structure a GitHub Discussion  
-- How to pin a Discussion to boost visibility  
-- How to highlight key replies with pinning  
-- How to unpin content to keep your board current
+By mastering GitHub Discussions, you’ve learned how to:
+- Create and structure Discussions for collaboration
+- Pin important Discussions to highlight visibility
+- Mark key replies as answers to guide the community
+- Unpin content to reprioritize what matters most
 
-### 💡 Real-world tip
+### What's next?
 
-Open source maintainers regularly pin FAQs, bug workarounds, or roadmap updates in Discussions so contributors and users can find what matters most.
-
-Use pinning as a tool to **prioritize knowledge and build a transparent community**.
-
-📣 [Let us know how it went in our discussion board!](https://github.com/orgs/skills/discussions)
+- Pin FAQs, bug workarounds, or major updates in your repositories
+- Use Discussions alongside GitHub Issues and Projects to manage work more effectively
+- Start building a thriving, organized open source community
+- [Tell us what you thought of this course in our discussion board](https://github.com/orgs/skills/discussions)
+- [Explore more GitHub Skills courses](https://github.com/skills)
+- [Read more about GitHub Discussions](https://docs.github.com/en/discussions)
