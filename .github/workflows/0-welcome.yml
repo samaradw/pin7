@@ -1,18 +1,19 @@
 name: Step 0, Start the course
 
+# This step triggers after the learner creates a new repository from the template.
+# This workflow updates from step 0 to step 1.
+
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
-  workflow_dispatch:
 
 permissions:
-  # Provides necessary permissions to checkout the repository and update step metadata.
   contents: write
   pull-requests: write
 
 jobs:
-  # Job to determine the current step.
   get_current_step:
     name: Check current step
     runs-on: ubuntu-latest
@@ -25,7 +26,6 @@ jobs:
     outputs:
       current_step: ${{ steps.get_step.outputs.current_step }}
 
-  # Job to handle the workflow after the repository is created.
   on_repo_created:
     name: Proceed to Step 1
     needs: get_current_step
@@ -37,9 +37,9 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Checkout all branches.
+          fetch-depth: 0 # Checkout all branches
 
-      - name: Create a branch and update repository
+      - name: Prepare a branch and update repository
         run: |
           echo "Ensure we are on step 0"
           if [ "$(cat .github/steps/-step.txt)" != 0 ]
@@ -52,8 +52,7 @@ jobs:
           BRANCH=update-step-1
           git checkout -b $BRANCH
 
-          echo "Update README and other files for step 1"
-          # Add any required changes here.
+          echo "Make an update to README"
           sed -i.bak 's/Welcome to Step 0!/Welcome to Step 1!/' README.md
 
           echo "Commit changes"
@@ -65,7 +64,12 @@ jobs:
           echo "Push changes"
           git push --set-upstream origin $BRANCH
 
-      - name: Update step to 1
+          echo "Switch back to main branch"
+          git checkout main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update to Step 1
         uses: skills/action-update-step@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
