@@ -3,7 +3,7 @@
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-## 🎉 Congratulations!
+## Finish
 
 _You’ve completed the skill: **Pinning threads & responses**!_
 
