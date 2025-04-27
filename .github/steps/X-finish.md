@@ -7,6 +7,8 @@
 
 You’ve completed the skill: **Pinning threads & responses**!
 
+<img src=https://github.com/samaradw/pinning-threads-and-responses/edit/main/.github/steps/X-finish.md alt="X-finish step" width=300 align=right>
+
 ### 🧠 What you learned:
 
 - How to create and structure a GitHub Discussion  
