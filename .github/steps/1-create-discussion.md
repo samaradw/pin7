@@ -23,8 +23,6 @@ GitHub Discussions is a collaborative space within your repository where you can
 5. Click **Start Discussion**.
 6. Wait about 20 seconds then refresh this page (the one you're following instructions from) to automatically update to the next step.
 
----
-
 ### 💡 Why this matters
 
 Creating Discussions helps build community and improve transparency. Starting with a question or idea encourages engagement and lays the foundation for collaborative problem-solving.
