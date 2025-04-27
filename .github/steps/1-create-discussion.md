@@ -10,11 +10,11 @@
 
 Let’s kick things off by starting a Discussion!
 
-## 🧠 What is a GitHub Discussion?
+### 🧠 What is a GitHub Discussion?
 
 GitHub Discussions is a collaborative space within your repository where you can ask questions, propose ideas, or share announcements.
 
-## 💬 Activity: Create a new Discussion
+### 💬 Activity: Create a new Discussion
 
 1. Navigate to your repository's **Discussions** tab.
 2. Click **New Discussion**.
