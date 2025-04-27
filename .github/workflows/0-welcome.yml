@@ -1,38 +1,74 @@
 name: Step 0, Start the course
 
-# This runs when the learner pushes to `main`, typically right after they create the repo.
 on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 permissions:
+  # Provides necessary permissions to checkout the repository and update step metadata.
   contents: write
+  pull-requests: write
 
 jobs:
+  # Job to determine the current step.
   get_current_step:
     name: Check current step
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout code
         uses: actions/checkout@v4
       - id: get_step
-        run: echo "current_step=$(cat ./.github/steps/-step.txt)" >> $GITHUB_OUTPUT
+        run: |
+          echo "current_step=$(cat ./.github/steps/-step.txt)" >> $GITHUB_OUTPUT
     outputs:
       current_step: ${{ steps.get_step.outputs.current_step }}
 
+  # Job to handle the workflow after the repository is created.
   on_repo_created:
     name: Proceed to Step 1
     needs: get_current_step
-    if: ${{ needs.get_current_step.outputs.current_step == 0 }}
+    if: >-
+      ${{ !github.event.repository.is_template
+          && needs.get_current_step.outputs.current_step == 0 }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Checkout all branches.
 
-      - name: Update to step 1
+      - name: Create a branch and update repository
+        run: |
+          echo "Ensure we are on step 0"
+          if [ "$(cat .github/steps/-step.txt)" != 0 ]
+          then
+            echo "Current step is not 0"
+            exit 0
+          fi
+
+          echo "Create a new branch"
+          BRANCH=update-step-1
+          git checkout -b $BRANCH
+
+          echo "Update README and other files for step 1"
+          # Add any required changes here.
+          sed -i.bak 's/Welcome to Step 0!/Welcome to Step 1!/' README.md
+
+          echo "Commit changes"
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          git add README.md
+          git commit --message="Update to Step 1"
+
+          echo "Push changes"
+          git push --set-upstream origin $BRANCH
+
+      - name: Update step to 1
         uses: skills/action-update-step@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           from_step: 0
           to_step: 1
+          branch_name: update-step-1
