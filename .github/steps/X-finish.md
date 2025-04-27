@@ -5,7 +5,7 @@
 
 # 🎉 Congratulations!
 
-You’ve completed the skill: **Pinning Discussions & Replies**!
+You’ve completed the skill: **Pinning threads & responses**!
 
 ## 🧠 What you learned:
 
