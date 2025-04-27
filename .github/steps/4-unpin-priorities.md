@@ -5,7 +5,7 @@
 -->
 
 <!-- <<< Author notes: Step 4 >>> -->
-## 🧹 Step 4: Unpin to Update Priorities
+## 🧹 Step 4: Unpin to update priorities
 
 Sometimes priorities change — that's where unpinning comes in.
 
