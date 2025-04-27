@@ -5,7 +5,7 @@
 
 ## 🎉 Congratulations!
 
-You’ve completed the skill: **Pinning threads & responses**!
+_You’ve completed the skill: **Pinning threads & responses**!_
 
 <img src=https://octodex.github.com/images/securityknightocat.jpg alt=celebrate width=300 align=right>
 
