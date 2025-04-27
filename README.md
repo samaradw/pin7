@@ -8,34 +8,32 @@
   Encourage users to open new tabs for steps!
 -->
 
+<header>
+
 # 📌 Pinning Important Discussions & Replies
 
-_Learn how to organize and manage GitHub Discussions to highlight what's most valuable._
+_Learn how to organize and highlight valuable conversations in GitHub Discussions._
+
+</header>
 
 ---
 
-## 👥 Who is this for
-- Repository maintainers  
-- Community managers  
-- Open source contributors  
-- Team leads using Discussions  
+## Welcome
 
----
+Keeping important information easy to find is crucial for maintaining a strong, helpful community on GitHub. Pinning critical discussions and marking helpful replies ensures your users, teammates, or contributors can quickly locate the most useful information. In this course, you'll practice organizing discussions and keeping your collaboration spaces updated and clear.
 
-## 📚 What you'll learn
-- How to create and pin discussions
-- How to mark helpful replies as answers
-- How to unpin threads to reprioritize
+- **Who is this for**: Repository maintainers, open source contributors, community managers, project leads, new GitHub users.
+- **What you'll learn**: How to create and pin discussions, how to mark replies as answers, how to update priorities by unpinning threads.
+- **What you'll build**: A clear and organized Discussions board with pinned topics and marked solutions.
+- **Prerequisites**: Familiarity with basic GitHub navigation. Recommended: [Introduction to GitHub](https://github.com/skills/introduction-to-github).
+- **How long**: About 15–20 minutes to complete.
 
----
+In this course, you will:
 
-## 🛠️ What you'll build
-A well-organized discussion board with pinned threads, marked answers, and updated priorities.
-
----
-
-## ⏱️ How long will this take?
-15–20 minutes
+1. Create a discussion
+2. Pin a discussion
+3. Mark a reply as an answer
+4. Unpin a discussion to update priorities
 
 ---
 
