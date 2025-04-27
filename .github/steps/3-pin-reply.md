@@ -29,7 +29,6 @@ Marking answers helps improve knowledge sharing. It makes it easier for other co
 2. Reply to it using another account or use an alternate reply on your post.
 3. Hover over the reply that best answers your Discussion.
 4. Click the **✔️ Mark as answer** button to highlight it.
-
-Once completed, GitHub Actions will detect this and move you to the next step!
+5. Wait about 20 seconds then refresh this page (the one you're following instructions from) to automatically update to the next step.
 
 ---
