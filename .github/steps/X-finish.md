@@ -7,7 +7,7 @@
 
 You’ve completed the skill: **Pinning threads & responses**!
 
-<img src="https://raw.githubusercontent.com/samaradw/pinning-threads-and-responses/main/.github/steps/X-finish.md" alt="X-finish step" width="300" align="right">
+<img src=https://octodex.github.com/images/securityknightocat.jpg alt=celebrate width=300 align=right>
 
 ### 🧠 What you learned:
 
