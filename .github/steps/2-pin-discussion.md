@@ -7,7 +7,7 @@
 <!-- <<< Author notes: Step 2 >>> -->
 ## Step 2: Pin a Discussion 
 
-Start this step by pinning your Discussion so your community can quickly see the most important threads. Now that you've started a Discussion, let’s make sure it gets the visibility it deserves.
+Now that you've started a Discussion, let’s make sure it gets the visibility it deserves. Start this step by pinning your Discussion so your community can quickly see the most important threads. 
 
 ### 🤔 Why this matters
 
