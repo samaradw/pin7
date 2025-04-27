@@ -13,7 +13,7 @@
 
 ✅ Let's help your community find clarity!
 
-When you mark a reply as the answer to a discussion, it signals to everyone that the question has been resolved. This is particularly helpful in Q&A-style discussions where clarity and resolution are essential.
+When you mark a reply as the answer to a Discussion, it signals to everyone that the question has been resolved. This is particularly helpful in Q&A-style Discussions where clarity and resolution are essential.
 
 ---
 
@@ -25,9 +25,9 @@ Marking answers helps improve knowledge sharing. It makes it easier for other co
 
 ### 💬 Activity: Mark a reply as the answer
 
-1. Go to the discussion you created earlier.
+1. Go to the Discussion you created earlier.
 2. Reply to it using another account or use an alternate reply on your post.
-3. Hover over the reply that best answers your discussion.
+3. Hover over the reply that best answers your Discussion.
 4. Click the **✔️ Mark as answer** button to highlight it.
 
 Once completed, GitHub Actions will detect this and move you to the next step!
