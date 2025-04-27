@@ -6,15 +6,15 @@
   Encourage users to open new tabs for steps!
 -->
 
-# Step 1: Create a discussion 💬
+# Step 1: Create a Discussion 💬
 
-Let’s kick things off by starting a discussion!
+Let’s kick things off by starting a Discussion!
 
-## 🧠 What is a GitHub discussion?
+## 🧠 What is a GitHub Discussion?
 
 GitHub Discussions is a collaborative space within your repo where you can ask questions, propose ideas, or share announcements.
 
-## 💬 Activity: Create a new discussion
+## 💬 Activity: Create a new Discussion
 
 1. Navigate to your repository's **Discussions** tab.
 2. Click **New Discussion**.
@@ -26,5 +26,5 @@ GitHub Discussions is a collaborative space within your repo where you can ask q
 
 ### 💡 Why this matters
 
-Creating discussions helps build community and improve transparency. Starting with a question or idea encourages engagement and lays the foundation for collaborative problem-solving.
+Creating Discussions helps build community and improve transparency. Starting with a question or idea encourages engagement and lays the foundation for collaborative problem-solving.
 
