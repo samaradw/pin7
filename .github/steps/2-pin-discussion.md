@@ -15,7 +15,7 @@ Now that you've started a discussion, let’s make sure it gets the visibility i
 
 Pinned discussions stay at the top of your list and help everyone find key questions, announcements, or updates quickly. Use pinning to highlight critical info for your team or contributors.
 
-### ⚙️ Activity: Pin Your Discussion
+### ⚙️ Activity: Pin your discussion
 
 1. Go to your [Discussions tab](../../discussions).
 2. Click into the discussion you just created.
