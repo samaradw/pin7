@@ -25,7 +25,7 @@ Keeping important information easy to find is crucial for maintaining a strong, 
 - **Who is this for**: Repository maintainers, open source contributors, community managers, project leads, new GitHub users.
 - **What you'll learn**: How to create and pin discussions, how to mark replies as answers, how to update priorities by unpinning threads.
 - **What you'll build**: A clear and organized Discussions board with pinned topics and marked solutions.
-- **Prerequisites**: Familiarity with basic GitHub navigation. Recommended: [Introduction to GitHub](https://github.com/skills/introduction-to-github).
+- **Prerequisites**: Familiarity with basic GitHub navigation. We recommend taking [Introduction to GitHub](https://github.com/skills/introduction-to-github) prior to this course.
 - **How long**: About 15–20 minutes to complete.
 
 In this course, you will:
