@@ -11,7 +11,7 @@ Now that you've started a Discussion, let’s make sure it gets the visibility i
 
 ### 🤔 Why this matters
 
-Pinned Discussions stay at the top of your list and help everyone find key questions, announcements, or updates quickly. Use pinning to highlight critical info for your team or contributors.
+Pinned Discussions stay at the top of your list and help everyone find key questions, announcements, or updates quickly. Use pinning to highlight critical information for your team or contributors.
 
 ### ⚙️ Activity: Pin your Discussion
 
