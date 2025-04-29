@@ -16,8 +16,6 @@ _Learn how to organize and highlight valuable conversations in GitHub Discussion
 
 </header>
 
----
-
 ## Welcome
 
 Keeping important information easy to find is crucial for maintaining a strong, helpful community on GitHub. Pinning critical discussions and marking helpful replies ensures your users, teammates, or contributors can quickly locate the most useful information. In this course, you'll practice organizing discussions and keeping your collaboration spaces updated and clear.
